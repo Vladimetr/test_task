@@ -1,0 +1,7 @@
+torch==2.0.1
+torchaudio==2.0.2
+openai-whisper==20230314
+speechbrain==0.5.14
+numpy==1.23.5
+json
+ffmpeg
